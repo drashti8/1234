@@ -1,5 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
+import card1 from './card1';
+
 
 function App() {
   return (
